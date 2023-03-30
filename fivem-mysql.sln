@@ -1,0 +1,27 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26124.0
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fivem-mysql.Client", "Client\fivem-mysql.Client.csproj", "{6AA1C329-48E5-4867-81D0-7C344202A1CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fivem-mysql.Server", "Server\fivem-mysql.Server.csproj", "{81648766-C561-4EA7-BCDA-F7806BDDCE34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AA1C329-48E5-4867-81D0-7C344202A1CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AA1C329-48E5-4867-81D0-7C344202A1CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AA1C329-48E5-4867-81D0-7C344202A1CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AA1C329-48E5-4867-81D0-7C344202A1CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81648766-C561-4EA7-BCDA-F7806BDDCE34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81648766-C561-4EA7-BCDA-F7806BDDCE34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81648766-C561-4EA7-BCDA-F7806BDDCE34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81648766-C561-4EA7-BCDA-F7806BDDCE34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

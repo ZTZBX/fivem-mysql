@@ -112,8 +112,6 @@ namespace fivem_mysql.Server
 
                 try
                 {
-
-                    Debug.WriteLine(query);
                     MySqlCommand cmd = new MySqlCommand(query, this.connection);
                     cmd.ExecuteNonQuery();
                     

@@ -1,4 +1,4 @@
-# MYSQL Database Connector for CitizenFX
+# MYSQL Database Connector for ZTZBX Framework
 
 To build it, run `build.cmd`. To run it, run the following commands to make a symbolic link in your server data directory:
 
